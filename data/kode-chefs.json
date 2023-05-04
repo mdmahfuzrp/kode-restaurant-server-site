@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "chef_name": "Abida Rahman",
+        "chef_picture": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/chef/chef-1.jpg",
+        "years_of_experience": "15",
+        "short_bio": "Abida Rahman is a renowned chef from Bangladesh with over 15 years of experience in traditional Bangladeshi cuisine.",
+        "recipe": {
+          "recipe_name": "Pitha",
+          "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-1.JPG",
+          "ingredients": [
+            "Rice flour",
+            "Jaggery",
+            "Coconut",
+            "Milk",
+            "Cardamom"
+          ],
+          "cooking_method": "Steaming",
+          "total_recipe": "3",
+          "rating": "4.7",
+          "likes": "6204"
+        }
+      },
+      {
+        "id": 2,
+        "chef_name": "Ahsanul Haque",
+        "chef_picture": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/chef/chef-2.jpg",
+        "years_of_experience": "10",
+        "short_bio": "Ahsanul Haque is a chef from Bangladesh, known for his innovative fusion of traditional and modern Bangladeshi cuisine.",
+        "recipe": {
+          "recipe_name": "Biriyani",
+          "recipe_img": "https://storage.cloudconvert.com/tasks/fa6009b2-898c-4471-b8d0-20eea05bdde5/recipe-2.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1683113663&Signature=0QGpFHBORafqiYe9Lf4TzhXBSmQ%3D&response-content-disposition=inline%3B%20filename%3D%22recipe-2.jpg%22&response-content-type=image%2Fjpeg",
+          "ingredients": [
+            "Basmati rice",
+            "Beef",
+            "Potatoes",
+            "Onions",
+            "Saffron"
+          ],
+          "cooking_method": "Dum",
+          "total_recipe": "3",
+          "rating": "4.5",
+          "likes": "9821"
+        }
+      },
+      {
+        "id": 3,
+        "chef_name": "Nurul Islam",
+        "chef_picture": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/chef/chef-3.jpg",
+        "years_of_experience": 20,
+        "short_bio": "Nurul Islam is a chef and food historian from Bangladesh, specializing in traditional Bengali cuisine.",
+        "recipe": {
+          "recipe_name": "Chitol Macher Muitha",
+          "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-3.jpg",
+          "ingredients": [
+            "Chitol fish",
+            "Chana dal",
+            "Ginger",
+            "Green chilies",
+            "Cumin"
+          ],
+          "cooking_method": "Boiling and frying",
+          "total_recipe": "3",
+          "rating": "4.2",
+          "likes": "3782"
+        }
+    },
+    {
+      "id": 4,
+      "chef_name": "Shabnam Rashid",
+      "chef_picture": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/chef/chef-4.jpg",
+      "years_of_experience": "8",
+      "short_bio": "Shabnam Rashid is a chef and cookbook author from Bangladesh, known for her expertise in traditional Bangladeshi desserts.",
+      "recipe": {
+        "recipe_name": "Mishti Doi",
+        "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-4.jpg",
+        "ingredients": [
+          "Milk",
+          "Yogurt",
+          "Sugar",
+          "Cardamom",
+          "Saffron"
+        ],
+        "cooking_method": "Baking and fermenting",
+        "total_recipe": "3",
+        "rating": "4.9",
+        "likes": "5123"
+      }
+    },
+    {
+      "id": 5,
+      "chef_name": "Jalal Uddin",
+      "chef_picture": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/chef/chef-5.jpeg",
+      "years_of_experience": "11",
+      "short_bio": "Jalal Uddin is a chef and cookbook author from Bangladesh, known for her expertise in traditional Bangladeshi desserts.",
+      "recipe": {
+        "recipe_name": "Chicken BBQ",
+        "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-5.jpg",
+        "ingredients": [
+          "Chicken",
+          "Sauce",
+          "Garlic",
+          "Paprika",
+          "Honey"
+        ],
+        "cooking_method": "Boiling and frying",
+        "total_recipe": "3",
+        "rating": "4.3",
+        "likes": "1742"
+      }
+    },
+    {
+      "id": 6,
+      "chef_name": "Hasan Islam",
+      "chef_picture": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/chef/chef-6.jpg",
+      "years_of_experience": 5,
+      "short_bio": "Hasan Islam is a chef and cookbook author from Bangladesh, known for her expertise in traditional Bangladeshi desserts.",
+      "recipe": {
+        "recipe_name": "French Fries",
+        "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-6.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Oil",
+          "Cornstarch",
+          "Seasonings"
+        ],
+        "cooking_method": "Frying and Boiling",
+        "total_recipe": "3",
+        "rating": "4.4",
+        "likes": "2395"
+      }
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "id": 1,
+        "recipe1": {
+          "recipe_name": "Pitha",
+          "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-1.JPG",
+          "ingredients": [
+            "Rice flour",
+            "Jaggery",
+            "Coconut",
+            "Milk",
+            "Cardamom"
+          ],
+          "cooking_method": "Steaming",
+          "rating": "4.7"
+        },
+        "recipe2": {
+            "recipe_name": "Pitha",
+            "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-1.JPG",
+            "ingredients": [
+              "Rice flour",
+              "Jaggery",
+              "Coconut",
+              "Milk",
+              "Cardamom"
+            ],
+            "cooking_method": "Steaming",
+            "rating": "4.7"
+          },
+          "recipe3": {
+            "recipe_name": "Pitha",
+            "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-1.JPG",
+            "ingredients": [
+              "Rice flour",
+              "Jaggery",
+              "Coconut",
+              "Milk",
+              "Cardamom"
+            ],
+            "cooking_method": "Steaming",
+            "rating": "4.7"
+          }
+      },
+      {
+        "id": 2,
+        "recipe1": {
+          "recipe_name": "Biriyani",
+          "recipe_img": "https://storage.cloudconvert.com/tasks/fa6009b2-898c-4471-b8d0-20eea05bdde5/recipe-2.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1683113663&Signature=0QGpFHBORafqiYe9Lf4TzhXBSmQ%3D&response-content-disposition=inline%3B%20filename%3D%22recipe-2.jpg%22&response-content-type=image%2Fjpeg",
+          "ingredients": [
+            "Basmati rice",
+            "Beef",
+            "Potatoes",
+            "Onions",
+            "Saffron"
+          ],
+          "cooking_method": "Dum",
+          "rating": "4.5"
+        },
+        "recipe2": {
+            "recipe_name": "Biriyani",
+            "recipe_img": "https://storage.cloudconvert.com/tasks/fa6009b2-898c-4471-b8d0-20eea05bdde5/recipe-2.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1683113663&Signature=0QGpFHBORafqiYe9Lf4TzhXBSmQ%3D&response-content-disposition=inline%3B%20filename%3D%22recipe-2.jpg%22&response-content-type=image%2Fjpeg",
+            "ingredients": [
+              "Basmati rice",
+              "Beef",
+              "Potatoes",
+              "Onions",
+              "Saffron"
+            ],
+            "cooking_method": "Dum",
+            "rating": "4.5"
+          },
+          "recipe3": {
+            "recipe_name": "Biriyani",
+            "recipe_img": "https://storage.cloudconvert.com/tasks/fa6009b2-898c-4471-b8d0-20eea05bdde5/recipe-2.jpg?AWSAccessKeyId=cloudconvert-production&Expires=1683113663&Signature=0QGpFHBORafqiYe9Lf4TzhXBSmQ%3D&response-content-disposition=inline%3B%20filename%3D%22recipe-2.jpg%22&response-content-type=image%2Fjpeg",
+            "ingredients": [
+              "Basmati rice",
+              "Beef",
+              "Potatoes",
+              "Onions",
+              "Saffron"
+            ],
+            "cooking_method": "Dum",
+            "rating": "4.5"
+          }
+      },
+      {
+        "id": 3,
+        "recipe1": {
+          "recipe_name": "Chitol Macher Muitha",
+          "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-3.jpg",
+          "ingredients": [
+            "Chitol fish",
+            "Chana dal",
+            "Ginger",
+            "Green chilies",
+            "Cumin"
+          ],
+          "cooking_method": "Boiling and frying",
+          "rating": "4.2"
+        },
+        "recipe2": {
+            "recipe_name": "Chitol Macher Muitha",
+            "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-3.jpg",
+            "ingredients": [
+              "Chitol fish",
+              "Chana dal",
+              "Ginger",
+              "Green chilies",
+              "Cumin"
+            ],
+            "cooking_method": "Boiling and frying",
+            "rating": "4.2"
+          },
+          "recipe3": {
+            "recipe_name": "Chitol Macher Muitha",
+            "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-3.jpg",
+            "ingredients": [
+              "Chitol fish",
+              "Chana dal",
+              "Ginger",
+              "Green chilies",
+              "Cumin"
+            ],
+            "cooking_method": "Boiling and frying",
+            "rating": "4.2"
+          }
+    },
+    {
+      "id": 4,
+      "chef_name": "Shabnam Rashid",
+      "chef_picture": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/chef/chef-4.jpg",
+      "years_of_experience": "8",
+      "short_bio": "Shabnam Rashid is a chef and cookbook author from Bangladesh, known for her expertise in traditional Bangladeshi desserts.",
+      "recipe1": {
+        "recipe_name": "Mishti Doi",
+        "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-4.jpg",
+        "ingredients": [
+          "Milk",
+          "Yogurt",
+          "Sugar",
+          "Cardamom",
+          "Saffron"
+        ],
+        "cooking_method": "Baking and fermenting",
+        "rating": "4.9"
+      },
+      "recipe2": {
+        "recipe_name": "Mishti Doi",
+        "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-4.jpg",
+        "ingredients": [
+          "Milk",
+          "Yogurt",
+          "Sugar",
+          "Cardamom",
+          "Saffron"
+        ],
+        "cooking_method": "Baking and fermenting",
+        "rating": "4.9"
+      },
+      "recipe3": {
+        "recipe_name": "Mishti Doi",
+        "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-4.jpg",
+        "ingredients": [
+          "Milk",
+          "Yogurt",
+          "Sugar",
+          "Cardamom",
+          "Saffron"
+        ],
+        "cooking_method": "Baking and fermenting",
+        "rating": "4.9"
+      }
+    },
+    {
+      "id": 5,
+      "recipe1": {
+        "recipe_name": "Chicken BBQ",
+        "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-5.jpg",
+        "ingredients": [
+          "Chicken",
+          "Sauce",
+          "Garlic",
+          "Paprika",
+          "Honey"
+        ],
+        "cooking_method": "Boiling and frying",
+        "rating": "4.3"
+      },
+      "recipe2": {
+        "recipe_name": "Chicken BBQ",
+        "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-5.jpg",
+        "ingredients": [
+          "Chicken",
+          "Sauce",
+          "Garlic",
+          "Paprika",
+          "Honey"
+        ],
+        "cooking_method": "Boiling and frying",
+        "rating": "4.3"
+      },
+      "recipe3": {
+        "recipe_name": "Chicken BBQ",
+        "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-5.jpg",
+        "ingredients": [
+          "Chicken",
+          "Sauce",
+          "Garlic",
+          "Paprika",
+          "Honey"
+        ],
+        "cooking_method": "Boiling and frying",
+        "rating": "4.3"
+      }
+    },
+    {
+      "id": 6,
+      "recipe1": {
+        "recipe_name": "French Fries",
+        "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-6.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Oil",
+          "Cornstarch",
+          "Seasonings"
+        ],
+        "cooking_method": "Frying and Boiling",
+        "rating": "4.4"
+      },
+      "recipe2": {
+        "recipe_name": "French Fries",
+        "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-6.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Oil",
+          "Cornstarch",
+          "Seasonings"
+        ],
+        "cooking_method": "Frying and Boiling",
+        "rating": "4.4"
+      },
+      "recipe3": {
+        "recipe_name": "French Fries",
+        "recipe_img": "https://raw.githubusercontent.com/mdmahfuzrp/futurehub-img/main/others/chef-recipe/recipe/recipe-6.jpg",
+        "ingredients": [
+          "Potatoes",
+          "Salt",
+          "Oil",
+          "Cornstarch",
+          "Seasonings"
+        ],
+        "cooking_method": "Frying and Boiling",
+        "rating": "4.4"
+      }
+    }
+]
